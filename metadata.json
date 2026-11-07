@@ -1,0 +1,6 @@
+{
+  "name": "PulseCord - Discord Bot Management Dashboard",
+  "description": "Professional Discord bot management platform with carbon-fiber UI, multi-bot orchestration, OAuth2, moderation, tickets, automations, and leveling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
